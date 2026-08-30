@@ -7,11 +7,11 @@ Estou construindo minha carreira na área de tecnologia, tenho formação sólid
 
 # Atualmente estudando
 
-- Python
-- Lógica de programação
-- Linux
-- Inglês, Gramática, writing and talking
-- Git
+- Python 🐍
+- Lógica de programação 👨‍💻
+- Linux 🛰️
+- Inglês, Gramática, writing and talking 💼
+- Git 🛠️
 # Minha jornada
 
 Ainda sou novo na área da tecnologia, estou me ambientando e criando projetos para dar certo essa transição.
